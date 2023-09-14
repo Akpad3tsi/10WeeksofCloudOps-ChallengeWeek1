@@ -22,3 +22,7 @@ Choose the "Use this bucket to host a website" option.
 Set the "Index document" to your main HTML file (e.g., index.html).
 Optionally, set the "Error document" to your error page (e.g., error.html).
 Click "Save changes."
+Wait for CloudFront Distribution to Deploy
+
+It may take some time for your CloudFront distribution to deploy. You can check its status in the CloudFront console.
+
